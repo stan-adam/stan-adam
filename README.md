@@ -1,2 +1,2 @@
-Hi! Im Adam, a first year computer science student.
+Hi! Im Adam, a second year computer science student.
 
